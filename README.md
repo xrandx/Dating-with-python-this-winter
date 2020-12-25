@@ -27,8 +27,7 @@
 
 ## 课程目录
 
-- 第 0 课 Hello, world! [Github]() [Blog]() [zhihu]()
-
+- 第 0 课 Hello, world! [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%200%20%E8%AF%BE%20Hello%2C%20world!.md)  | [Blog](http://benearyou.com/lesson-0-hello-world/) 
 
 
 ## 内容
