@@ -28,8 +28,9 @@
 
 ## 注意
 ### 如何参与
+- 直播地址：[哔哩哔哩直播](https://live.bilibili.com/383441
+)
 - 微信群的同学应当按时发邮件交作业，B站的同学不要求（主要是怕人太多）。
-
 - 从B站来的同学可以加入QQ群 217678425
 <img src="https://gitee.com/xrandx/blog-figurebed/raw/master/img/image-20201228142403747.png" alt="image-20201228142403747" style="zoom:25%;" />
 
@@ -52,7 +53,7 @@
 - 第 0 课 Hello, world! [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%200%20%E8%AF%BE%20Hello%2C%20world!.md)  | [博客](http://benearyou.com/lesson-0-hello-world/) | [视频 27号直播 ](https://www.bilibili.com/video/BV1G54y1x7Cw)
 - 第 1 课 变量和类型，用内存的视角看数据  [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%201%20%E8%AF%BE%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%8C%E7%94%A8%E5%86%85%E5%AD%98%E7%9A%84%E8%A7%86%E8%A7%92%E7%9C%8B%E6%95%B0%E6%8D%AE.md)  | [博客](http://benearyou.com/variables-and-types-data-from-the-perspective-of-memory/) | [视频 29号会直播]()
 
-## 内容
+## 内容纲要
 
 - 变量定义
 - 算术运算
