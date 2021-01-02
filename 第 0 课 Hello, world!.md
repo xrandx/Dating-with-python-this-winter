@@ -25,7 +25,7 @@
 
 - [15 个提高 Google 搜索效率的小技巧](https://sspai.com/post/34150)
 - [99%的人都不知道的，高级搜索技巧！精度提升 10 倍！](https://cloud.tencent.com/developer/article/1464793)
-- [学会用google做research——李笑来](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%200%20%E8%AF%BE%20%E9%99%84%E5%BD%95%E5%AD%A6%E4%BC%9A%E7%94%A8google%E5%81%9Aresearch%E2%80%94%E2%80%94%E6%9D%8E%E7%AC%91%E6%9D%A5.md)
+- [学会用 Google 做 research 李笑来](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%200%20%E8%AF%BE%20%E9%99%84%E5%BD%95%20%E5%AD%A6%E4%BC%9A%E7%94%A8%20Google%20%E5%81%9A%20research%20%20%E6%9D%8E%E7%AC%91%E6%9D%A5.md)
 
 上面的技巧，不需要全部都会，知道一点点就可以了，大多数搜索引擎都可以使用。
 
