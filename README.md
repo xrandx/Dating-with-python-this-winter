@@ -65,7 +65,7 @@
 - 第 0 课 Hello, world! [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%200%20%E8%AF%BE%20Hello%2C%20world!.md)  | [博客](http://benearyou.com/lesson-0-hello-world/) | [12月27号直播 ](https://www.bilibili.com/video/BV1G54y1x7Cw)
 - 第 1 课 变量和类型，用内存的视角看数据  [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%201%20%E8%AF%BE%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%8C%E7%94%A8%E5%86%85%E5%AD%98%E7%9A%84%E8%A7%86%E8%A7%92%E7%9C%8B%E6%95%B0%E6%8D%AE.md)  | [博客](http://benearyou.com/variables-and-types-data-from-the-perspective-of-memory/) | [12月29号直播](https://www.bilibili.com/video/bv13K411g7Sz)
 - 第 2 课 字符串和数据结构  [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%202%20%E8%AF%BE%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)  | [博客](http://benearyou.com/lesson-3-strings-and-data-structures/) | [1月1号直播](https://www.bilibili.com/video/BV1Ei4y1F7Ay/)
-- 第 3 课 控制流 [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%203%20%E8%AF%BE%20%E6%8E%A7%E5%88%B6%E6%B5%81.md) | [博客](http://benearyou.com/lesson-3-control-flow/) | 直播
+- 第 3 课 控制流 [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%203%20%E8%AF%BE%20%E6%8E%A7%E5%88%B6%E6%B5%81.md) | [博客](http://benearyou.com/lesson-3-control-flow/) | [1月3日直播](https://www.bilibili.com/video/BV1tr4y1T722)
 
 
 ## 注意
