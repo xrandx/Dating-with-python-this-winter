@@ -34,7 +34,7 @@
 
 - **时间安排**：开课后，一般隔**两天**上一节课，一天空闲是留给课前问题和课后编程的。
 
-- **硬币计划**：目前我们还推出了硬币计划，你可以**自行**进行捐款，或转账给群主（收费所得将捐给孩子们），可享受**群主夺命催作业和批改作业服务**。当然，不付费也可以参与课程和答疑，详情见下方链接：[Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%A1%AC%E5%B8%81%E8%AE%A1%E5%88%92.md) |[博客](http://benearyou.com/coin-project/)
+- **硬币计划**：目前我们还推出了硬币计划，你可以**自行**进行捐款，或转账给群主（收费所得将捐给孩子们），可享受**群主夺命催作业和批改作业服务**。当然，不付费也可以参与课程和答疑，详情见下方链接：[Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/Coin-Project.md) |[博客](http://benearyou.com/coin-project/)
 
   欢迎加入噢！
 
