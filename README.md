@@ -40,24 +40,17 @@
 
 - 闻道有先后，术业有专攻。虽然是免费的，希望大家也能认真对待**自己的时间和精力**，如果觉得自己不能坚持学习，那应该提前退群，免得浪费时间。
 
-### 时间点
+### 课程目录和时间点
 
-| 节数    | 课中直播时间，一般为20:00 | 课后作业最后期限，一般为23:59 |
-| ------- | ------------ | ---------------- |
-| 第 0 课 |    12月27日          | 12月30日 |
-| 第 1 课   | 12月29日 | 1月1日 |
-| 第 2 课 | 1月1日 | 1月5日                        |
-| 第 3 课 | 1月3日 | 1月7日 |
-| 第 4 课 | 1月6日 | 未定 |
-| 第5课 | 未定 | 未定 |
-
-
-## 课程目录
-
-- 第 0 课 Hello, world! [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%200%20%E8%AF%BE%20Hello%2C%20world!.md)  | [博客](http://benearyou.com/lesson-0-hello-world/) | [12月27号直播 ](https://www.bilibili.com/video/BV1G54y1x7Cw)
-- 第 1 课 变量和类型，用内存的视角看数据  [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%201%20%E8%AF%BE%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%8C%E7%94%A8%E5%86%85%E5%AD%98%E7%9A%84%E8%A7%86%E8%A7%92%E7%9C%8B%E6%95%B0%E6%8D%AE.md)  | [博客](http://benearyou.com/variables-and-types-data-from-the-perspective-of-memory/) | [12月29号直播](https://www.bilibili.com/video/bv13K411g7Sz)
-- 第 2 课 字符串和数据结构  [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%202%20%E8%AF%BE%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)  | [博客](http://benearyou.com/lesson-3-strings-and-data-structures/) | [1月1号直播](https://www.bilibili.com/video/BV1Ei4y1F7Ay/)
-- 第 3 课 控制流 [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%203%20%E8%AF%BE%20%E6%8E%A7%E5%88%B6%E6%B5%81.md) | [博客](http://benearyou.com/lesson-3-control-flow/) | [1月3日直播](https://www.bilibili.com/video/BV1tr4y1T722)
+| 节数 | 文档和视频 | 直播时间(20:00) | 课后作业期限(23:59) |
+| ---- | :----------------------------------------------------------- | --------------- | ------------------- |
+| 0 Hello, world! | [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%200%20%E8%AF%BE%20Hello%2C%20world!.md)  \| [博客](http://benearyou.com/lesson-0-hello-world/) \| [12月27日录播 ](https://www.bilibili.com/video/BV1G54y1x7Cw) | 12月27日        | 12月30日            |
+| 1 变量和类型，用内存的视角看数据 | [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%201%20%E8%AF%BE%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%8C%E7%94%A8%E5%86%85%E5%AD%98%E7%9A%84%E8%A7%86%E8%A7%92%E7%9C%8B%E6%95%B0%E6%8D%AE.md)  \| [博客](http://benearyou.com/variables-and-types-data-from-the-perspective-of-memory/) \| [12月29日录播](https://www.bilibili.com/video/bv13K411g7Sz) | 12月29日        | 1月1日              |
+| 2 字符串和数据结构 | [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%202%20%E8%AF%BE%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)  \| [博客](http://benearyou.com/lesson-3-strings-and-data-structures/) \| [1月1日录播](https://www.bilibili.com/video/BV1Ei4y1F7Ay/) | 1月1日          | 1月5日              |
+| 3 控制流 | [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%203%20%E8%AF%BE%20%E6%8E%A7%E5%88%B6%E6%B5%81.md) \| [博客](http://benearyou.com/lesson-3-control-flow/) \| [1月3日录播](https://www.bilibili.com/video/BV1tr4y1T722) | 1月3日          | 1月7日              |
+| 4 计算的本质 | [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%204%20%E8%AF%BE%20%E8%AE%A1%E7%AE%97%E7%9A%84%E6%9C%AC%E8%B4%A8.md) \| [博客](http://benearyou.com/lesson-4-the-nature-of-computation/) \| （1月8日点错了按钮，是没有录成视频，可惜……） | 1月8日          | 无作业              |
+| 5 函数与作用域 |                                                  | 1月11日         | 未定                |
+|      |                                                              |                 |                     |
 
 
 ## 注意
