@@ -49,8 +49,8 @@
 | 2 字符串和数据结构 | [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%202%20%E8%AF%BE%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)  \| [博客](http://benearyou.com/lesson-3-strings-and-data-structures/) \| [1月1日录播](https://www.bilibili.com/video/BV1Ei4y1F7Ay/) | 1月1日          | 1月5日              |
 | 3 控制流 | [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%203%20%E8%AF%BE%20%E6%8E%A7%E5%88%B6%E6%B5%81.md) \| [博客](http://benearyou.com/lesson-3-control-flow/) \| [1月3日录播](https://www.bilibili.com/video/BV1tr4y1T722) | 1月3日          | 1月7日              |
 | 4 计算的本质 | [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%204%20%E8%AF%BE%20%E8%AE%A1%E7%AE%97%E7%9A%84%E6%9C%AC%E8%B4%A8.md) \| [博客](http://benearyou.com/lesson-4-the-nature-of-computation/) \| （1月8日点错了按钮，是没有录成视频，可惜……） | 1月8日          | 无作业              |
-| 5 函数与作用域 | [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%205%20%E8%AF%BE%20%E5%87%BD%E6%95%B0%E3%80%81%E4%BD%9C%E7%94%A8%E5%9F%9F%E4%B8%8E%E9%80%92%E5%BD%92.md) \| [博客](http://benearyou.com/function-scope-and-recursion/) \| 马上形成 | **1月11日**    | **1月14日**      |
-| 6 类与模块化工具 |                                                              | 1月14日 | 1月17日 |
+| 5 函数与作用域 | [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%205%20%E8%AF%BE%20%E5%87%BD%E6%95%B0%E3%80%81%E4%BD%9C%E7%94%A8%E5%9F%9F%E4%B8%8E%E9%80%92%E5%BD%92.md) \| [博客](http://benearyou.com/function-scope-and-recursion/) \| [1月11日录播](https://www.bilibili.com/video/BV1hr4y1T7mz/) | 1月11日    | **1月14日**      |
+| 6 类与模块化工具 |                                                              | **1月14日** | **1月17日** |
 
 
 ## 注意
