@@ -52,16 +52,20 @@
 | 5 函数与作用域 | [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%205%20%E8%AF%BE%20%E5%87%BD%E6%95%B0%E3%80%81%E4%BD%9C%E7%94%A8%E5%9F%9F%E4%B8%8E%E9%80%92%E5%BD%92.md) \| [博客](http://benearyou.com/function-scope-and-recursion/) \| [1月11日录播](https://www.bilibili.com/video/BV1hr4y1T7mz/) | 1月11日    | 1月14日      |
 | 6 类与数据结构 | [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%206%20%E8%AF%BE%20%E7%B1%BB%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md) \| [博客](http://benearyou.com/class-and-data-structure/) \| [1月14日录播](https://www.bilibili.com/video/BV1hr4y1T7mz/) | 1月14日 | 1月17日 |
 | 7 面向对象的类设计 | [Github](https://github.com/xrandx/Dating-with-python-this-winter/blob/master/%E7%AC%AC%207%20%E8%AF%BE%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%B1%BB%E8%AE%BE%E8%AE%A1.md) \| [博客](http://benearyou.com/lesson-7-object-oriented-class-design/) \| [1月17日录播]() | 1月17日 | 1月20日 |
+| 第 8 课 数据分析初步 | [Github](https://github.com/xrandx/Data-analysis-for-python/blob/master/%E7%AC%AC%208%20%E8%AF%BE%20%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%88%9D%E6%AD%A5.md) \| [博客](http://benearyou.com/lesson-8-preliminary-data-analysis/) \| [1月21日录播](https://www.bilibili.com/video/BV1ny4y1p7ib/) | 1月21日 | 1月23日 |
+| 第 9 课 NumPy 之 ndarray | [Github](https://github.com/xrandx/Data-analysis-for-python/blob/master/%E7%AC%AC%208%20%E8%AF%BE%20%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%88%9D%E6%AD%A5.md) \| [博客](http://benearyou.com/lesson-8-preliminary-data-analysis/) \| [1月24日录播](https://www.bilibili.com/video/BV1Et4y167QC/) | 1月24日 | 1月26日 |
+| 第 10 课 NumPy 计算和广播原理 | [Github](https://github.com/xrandx/Data-analysis-for-python/blob/master/%E7%AC%AC%2010%20%E8%AF%BE%20NumPy%20%E8%AE%A1%E7%AE%97%E5%92%8C%E5%B9%BF%E6%92%AD%E5%8E%9F%E7%90%86.md) \| [博客](http://benearyou.com/lesson-10-numpy-computing-and-broadcasting-principles/) \| [1月26日录播](https://www.bilibili.com/video/BV1e54y1s7L9/) | 1月26日 | 动手实现代码 |
+| 第 11 课 Matplotlib 画图 | [Github](https://github.com/xrandx/Data-analysis-for-python/blob/master/%E7%AC%AC%2011%20%E8%AF%BE%20Matplotlib%20%E7%94%BB%E5%9B%BE.md) \| [录播](https://www.bilibili.com/video/BV1cX4y1N7uG/) |  | 动手实现代码 |
+| 第 12 课 Pandas (1) | [Github](https://github.com/xrandx/Data-analysis-for-python/blob/master/%E7%AC%AC%2012%20%E8%AF%BE%20Pandas%20(1).md) \| [视频](https://www.bilibili.com/video/BV1ko4y1d77U/) |  | 动手实现代码 |
+| 第 13 课 Pandas (2) | [Github](https://github.com/xrandx/Data-analysis-for-python/blob/master/%E7%AC%AC%2013%20%E8%AF%BE%20Pandas%20(2).md) | |  |
 
 注意，后续**数据分析课程**在
-https://github.com/xrandx/Data-analysis-for-python
+https://github.com/xrandx/Dating-with-Machine-Learning
 
 ## 注意
 ### 如何参与
 - 直播地址：[哔哩哔哩直播](https://live.bilibili.com/383441
 )
-- 从B站来的同学可以加入QQ群 217678425
-<img src="https://gitee.com/xrandx/blog-figurebed/raw/master/img/image-20201228142403747.png" alt="image-20201228142403747" style="zoom:25%;" />
 
 
 ## 内容指引
